@@ -21,4 +21,4 @@ frequent characters.
 - Empty text prints error message
 - Most frequent characters can be less than 5 depending on input
 - Count white spaces as a character
-- IF multiple characters compete for top 5, priority is given based on insertion order
+- If multiple characters compete for top 5, priority is given based on insertion order
